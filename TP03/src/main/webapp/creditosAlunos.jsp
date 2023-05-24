@@ -35,9 +35,9 @@
 		<div class="container">
 			<h3 class="text-center" style="color: rgb(205, 35, 180)">ALUNOS</h3>
 			<hr>
-            <label style="color: rgb(2, 61, 46)">Guilherme Pontes  </label>
+            <label style="color: rgb(2, 61, 46)">Guilherme Pontes CB3013049  CB</label>
             </br>
-			<label style="color: rgba(19, 94, 0, 0.329)" >Breno Santos </label>
+			<label style="color: rgba(19, 94, 0, 0.329)" >Breno Santos CB3015769 </label>
             </br>
 		</div>
 	</div>
